@@ -13,7 +13,7 @@ const CLIENT_SECRET = ''; // Blank for installed apps
 const USER_AGENT = 'FancyKarmaVerifier/1.0';
 const GOOGLE_SHEET_ID = '1Fxpxy1eHKRd8aYTcQvpHuuHWXEhPSEzHWc7i97sV5x0';
 const GOOGLE_SHEET_NAME = 'karmaLog';
-const PASS_REDIRECT = 'https://script.google.com/macros/s/AKfycbzT8-4MLHrLa0Hpo_II1O1KfdUuefN9R2KZXjrYZJ3ZAukA0UGwi7H9GJIc3-7KAYj27A/exec';
+const PASS_REDIRECT = 'https://script.google.com/macros/s/AKfycbyfaL1F_C2wsLqG2T4V9GE0Iz9pjMkpCZLXAogTcmM3SjajYc-6EJ_MpPe0CwkO7wEIZw/exec';
 
 app.use(cors());
 app.use(express.json());
