@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const CLIENT_ID = '70G0I__N4hh4F48tKem05A'; // Installed app
 const CLIENT_SECRET = ''; // Blank for installed apps
 const USER_AGENT = 'FancyKarmaVerifier/1.0';
-const GOOGLE_SHEET_ID = '1j4bf4NNhFzYZQV3XTEUdutMla2vkTL7MkAPrgHmqx4A';
+const GOOGLE_SHEET_ID = '1McharAzo-zSkcmhJ7HhGrVBF63B8lMpiXryWvjXj8rM';
 const GOOGLE_SHEET_NAME = 'karmaLog';
 const PASS_REDIRECT = 'https://script.google.com/macros/s/AKfycbzT8-4MLHrLa0Hpo_II1O1KfdUuefN9R2KZXjrYZJ3ZAukA0UGwi7H9GJIc3-7KAYj27A/exec';
 
