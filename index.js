@@ -8,7 +8,7 @@ import fs from 'fs';
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const CLIENT_ID = '70G0I__N4hh4F48tKem05A'; // Installed app
+const CLIENT_ID = ''; // Installed app
 const CLIENT_SECRET = ''; // Blank for installed apps
 const USER_AGENT = 'FancyKarmaVerifier/1.0';
 const GOOGLE_SHEET_ID = '1Fxpxy1eHKRd8aYTcQvpHuuHWXEhPSEzHWc7i97sV5x0';
